@@ -1,6 +1,6 @@
-#🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System
 
-##📌 Overview
+## 📌 Overview
 
 This project is a **Movie Recommendation System** built using the MovieLens dataset.
 It applies both **Content-Based Filtering** and **Collaborative Filtering** techniques to recommend movies based on user preferences and similarity patterns.

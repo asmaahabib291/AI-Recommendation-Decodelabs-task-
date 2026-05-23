@@ -97,15 +97,3 @@ Dataset source: [https://grouplens.org/datasets/movielens/](https://grouplens.or
 ## 👩‍💻 Author
 
 Developed as part of an AI learning project focused on recommendation systems and machine learning fundamentals.
-
-
-
-# 💡 لو عايزة مستوى أعلى
-
-أقدر أعملك:
-
-* README أقوى (ATS + Internship level)
-* أو أزبطه portfolio ready مع صورة و badges
-* أو أعملك Streamlit app للمشروع
-
-قولي 👍
